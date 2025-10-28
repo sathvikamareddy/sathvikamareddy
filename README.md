@@ -1,3 +1,6 @@
+---
+
+markdown
 <h1 align="center">Hi , I'm MAREDDY SATHVIKA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">Aspiring AIML Engineer | Front-End Developer | Web Enthusiast 🚀</h3>
@@ -9,19 +12,18 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bhoomi155&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/bhoomi155">
-    <img src="https://img.shields.io/github/followers/bhoomi155?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/sathvikamareddy">
+    <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=orange" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/bhoomi155">
-    <img src="https://img.shields.io/github/stars/bhoomi155?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <a href="https://github.com/sathvikamareddy">
+    <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bhoomi155/bhoomi155/3fd09c442de60d267326d5b651d74cba749f9d4e/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
 </p>
-
 
 ---
 
@@ -29,30 +31,13 @@
 
 > Passionate developer crafting innovative digital experiences at the intersection of creativity and technology.
 
-*I am an explorer of Web development 🌐, Machine learning 🤖, Software engineering 💻.*  
+I am an explorer of Web development 🌐, Machine learning 🤖, and Software engineering 💻.  
 My dedication lies in fostering innovations through collaboration and lifelong learning.
 
 🔹 Frontend Specialist building responsive, user-centric web applications  
 🔹 AI & ML Explorer diving deep into intelligent systems and data-driven solutions  
 🔹 Open Source Contributor sharing knowledge and collaborating with the community  
 🔹 Problem Solver turning complex challenges into elegant, scalable solutions  
-
----
-
-
-<!---<h1 align="center">Hi , I'm BHOOMI SINGH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Solving+Today,Shaping+Tomorrow)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhoomi155&color=blueviolet&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/bhoomi155?style=for-the-badge&color=orange)](https://github.com/bhoomi155)
-[![GitHub stars](https://img.shields.io/github/stars/bhoomi155?style=for-the-badge&color=yellow)](https://github.com/bhoomi155)
-
-</div>
-
-<picture><img src="gitbanner.gif" width="100%"></picture> ---> 
 
 ---
 
@@ -77,18 +62,16 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=fff&style=for-the-badge)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat)
 
 ### 🧩 Tools & Platforms  
 <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat" />
 </p>
 
 ---
@@ -102,31 +85,23 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 </div>
 
+---
 
 ## 🔥 Streak Stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=bhoomi155&theme=neon-dark)](https://git.io/streak-stats)
-
-
-</div>
-
-### ⚡ Recent GitHub Activity
-<div align="center">
-  
-[![Bhoomi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bhoomi155&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sathvikamareddy&theme=neon-dark)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-
-<!---## 📌📂 My Repositories & Featured Projects
-
+### ⚡ Recent GitHub Activity
 <div align="center">
+  
+[![Sathvika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div> --->
-
+</div>
 
 ---
 
@@ -138,34 +113,27 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 </div>
 
-🎯 *Current Goals for 2025:*
-- [ ] Contribute to 5+ open source projects
-- [ ] Build and deploy 3 AI-powered applications
-- [ ] Learn advanced machine learning concepts
-- [ ] Mentor aspiring developers
-- [ ] Write technical blogs and tutorials
-
-<!--- <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/📄 Download%20Resume-FF6F00?style=for-the-badge&logo=google-drive&logoColor=white" alt="Bhoomi Singh Resume" />
-  </a>
-</div> --->
+🎯 **Current Goals for 2025:**
+- [ ] Contribute to 5+ open source projects  
+- [ ] Build and deploy 3 AI-powered applications  
+- [ ] Learn advanced machine learning concepts  
+- [ ] Mentor aspiring developers  
+- [ ] Write technical blogs and tutorials  
 
 ---
 
 ## 🤝 Let's Connect & Collaborate
 
-
 <div align="center">
   
 ### 📫 Connect with Me
 
-[![LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathvikamareddy)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathvikareddy5666@gmail.com)
 
 </div>
 
-----
+---
 
 ### 💭 Daily Inspiration
 
@@ -175,7 +143,8 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 <div align="center">
   
-  *⭐ If you find my work interesting, consider giving my repositories a star!* 
+⭐ If you find my work interesting, consider giving my repositories a star! 
+
 </div>
 
 ---
@@ -187,9 +156,14 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 </p>
 
 ---
+
 <div align="center">  
+📈 **Profile Stats**  
+<br>
   
-*📈 Profile Stats*  
 ![Profile last updated](https://img.shields.io/github/last-commit/sathvikamareddy/sathvikamareddy?label=Profile%20updated&style=flat-square&color=brightgreen)
-  
+
 </div>
+
+
+---
