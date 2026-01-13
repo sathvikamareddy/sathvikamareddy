@@ -90,8 +90,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 ## 🔥 Streak Stats
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sathvikamareddy&theme=neon-dark)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathvikamareddy)
 </div>
 
 ---
