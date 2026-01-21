@@ -1,9 +1,9 @@
 ---
 
 markdown
-<h1 align="center">Hi , I'm MAREDDY SATHVIKA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm SATHVIKA MAREDDY <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Aspiring AIML Engineer | Front-End Developer | Web Enthusiast 🚀</h3>
+<h3 align="center">Aspiring AIML Engineer | Front-End Developer | Web Enthusiast 🚀 | BIG DATA </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
