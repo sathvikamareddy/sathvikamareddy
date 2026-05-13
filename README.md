@@ -55,7 +55,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 ### ᴀɪ & ᴍʟ  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=fff&style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=flat)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff&style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Python%20Plotting-blue?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 
