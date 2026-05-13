@@ -41,7 +41,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-## *Tech Arsenal*
+## 🛠️*Tech Arsenal*
 
 ### ꜰʀᴏɴᴛᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -69,7 +69,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-<h2 align="left"> GitHub Analytics </h2>
+<h2 align="left"> 📊 GitHub Analytics </h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=github_dark" />
@@ -80,7 +80,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-## *Streak Stats*
+## 🔥 *Streak Stats*
 
 <div align="center">
 
@@ -89,7 +89,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-## *Recent GitHub Activity*
+## 📈 *Recent GitHub Activity*
 
 <div align="center">
   
@@ -98,7 +98,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 </div> 
 
 ---
-## *Connect & Collaborate*
+## 🤝 *Connect & Collaborate*
 
 <div align="center">
   
@@ -107,12 +107,11 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 <div align="center"><a href="https://www.linkedin.com/in/sathvika-mareddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:sathvikareddy5666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 ---
-## *Daily Motivation*
+## 💭*Daily Inspiration*
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-
 <div align="center">
   ⭐ 𝙄𝙛 𝙮𝙤𝙪 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙬𝙤𝙧𝙠 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜, 𝙘𝙤𝙣𝙨𝙞𝙙𝙚𝙧 𝙜𝙞𝙫𝙞𝙣𝙜 𝙢𝙮 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙖 𝙨𝙩𝙖𝙧!
 </div>
