@@ -1,33 +1,32 @@
----
 
 
-<h1 align="center">Hi , I'm  MAREDDY SATHVIKA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">Aspiring AIML Engineer | Front-End Developer | Web Enthusiast 🚀 | BIG DATA </h3>
+<h1 align="center">Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<h3 align="center">  AI/ML Enthusiast | SQL | Frontend Developer | Building Real-World Projects</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Front+End+Developer;AI+%26+ML+Enthusiast;Solving+Today,Shaping+Tomorrow">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=AI+%26+Tech+Enthusiast;Exploring+Data;Solving+Today,+Shaping+Tomorrow" 
+      alt="Typing SVG" 
+    />
   </a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://github.com/sathvikamareddy">
-    <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=orange" alt="GitHub Followers"/>
-  </a>
-  <a href="https://github.com/sathvikamareddy">
-    <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
-  </a>
-</p>
 
+  <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+
+  <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
 </p>
 
 ---
 
-## *About Me*
+## 👩‍💻 *About Me*
 
 > Passionate developer crafting innovative digital experiences at the intersection of creativity and technology.
 
@@ -107,12 +106,14 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 <div align="center"><a href="https://www.linkedin.com/in/sathvika-mareddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:sathvikareddy5666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
 
 ---
-## 💭*Daily Inspiration*
 
-<p align="center">
+<h2 align="left">💭 <i>Daily Inspiration</i></h2>
+
+<p align="center" style="margin-top:-5px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
-<div align="center">
+
+<div align="center" style="margin-top:-5px;">
   ⭐ 𝙄𝙛 𝙮𝙤𝙪 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙬𝙤𝙧𝙠 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜, 𝙘𝙤𝙣𝙨𝙞𝙙𝙚𝙧 𝙜𝙞𝙫𝙞𝙣𝙜 𝙢𝙮 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙖 𝙨𝙩𝙖𝙧!
 </div>
 
