@@ -103,7 +103,14 @@ My dedication lies in fostering innovations through collaboration and lifelong l
   
 ### 📫 *Connect with Me*
 
-<div align="center"><a href="https://www.linkedin.com/in/sathvika-mareddy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:sathvikareddy5666@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></div>
+<p align="center">
+<a href="https://www.linkedin.com/in/mareddy-sathvika-483b76359/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mareddy%20Sathvika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+</a>
+<a href="mailto:sathvikareddy5666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+</a>
+</p>
 
 ---
 
@@ -119,7 +126,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-## *Watch My Contributions Get Eaten!*
+## *🐍 Watch My Contributions Get Eaten!*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
@@ -127,13 +134,14 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-<div align="center">  
-## *Profile Stats* 
+<div align="center">
+
+## *Profile Stats*
+
 <br>
-  
-![Profile last updated](https://img.shields.io/github/last-commit/sathvikamareddy/sathvikamareddy?label=Profile%20updated&style=flat-square&color=brightgreen)
+
+<img src="https://img.shields.io/github/last-commit/sathvikamareddy/sathvikamareddy?label=Profile%20Updated&style=for-the-badge&color=0A66C2" />
 
 </div>
-
 
 ---
