@@ -97,22 +97,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 </div> 
 
 ---
-## 🤝 *Connect & Collaborate*
 
-<div align="center">
-  
-### 📫 *Connect with Me*
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mareddy-sathvika-483b76359/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Mareddy%20Sathvika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
-</a>
-<a href="mailto:sathvikareddy5666@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
-</a>
-</p>
-
----
 
 <h2 align="left">💭 <i>Daily Inspiration</i></h2>
 
@@ -130,6 +115,23 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+</p>
+
+---
+
+## 🤝 *Connect & Collaborate*
+
+<div align="center">
+  
+### 📫 *Connect with Me*
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mareddy-sathvika-483b76359/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Mareddy%20Sathvika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+</a>
+<a href="mailto:sathvikareddy5666@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+</a>
 </p>
 
 ---
