@@ -40,7 +40,7 @@ My dedication lies in fostering innovations through collaboration and lifelong l
 
 ---
 
-## 🛠️*Tech Arsenal*
+## 🛠️ *Tech Arsenal*
 
 ### ꜰʀᴏɴᴛᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
