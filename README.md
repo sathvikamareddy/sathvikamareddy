@@ -28,15 +28,15 @@
 
 ## 👩‍💻 *About Me*
 
-> Passionate developer crafting innovative digital experiences at the intersection of creativity and technology.
+> Passionate about building intelligent, data-driven, and user-centric digital experiences.
 
-I am an explorer of Web development 🌐, Machine learning 🤖, and Software engineering 💻.  
-My dedication lies in fostering innovations through collaboration and lifelong learning.
+I’m an AIML enthusiast with a strong interest in SQL, data analytics, and front-end development.  
+I enjoy exploring modern technologies, creating responsive web applications, and continuously learning through real-world projects and problem solving.
 
-🔹 Frontend Specialist building responsive, user-centric web applications  
-🔹 AI & ML Explorer diving deep into intelligent systems and data-driven solutions  
-🔹 Open Source Contributor sharing knowledge and collaborating with the community  
-🔹 Problem Solver turning complex challenges into elegant, scalable solutions  
+🔹 Exploring Artificial Intelligence & Machine Learning  
+🔹 Passionate About SQL & Data Analytics  
+🔹 Building Modern Front-End Experiences  
+🔹 Continuous Learner & Tech Enthusiast
 
 ---
 
