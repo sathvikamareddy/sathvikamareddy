@@ -98,6 +98,16 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 ---
 
+## 📌Current Projects
+
+- LeetCode SQL Solutions Repository  
+  Solving SQL problems daily and maintaining optimized solutions with proper documentation on GitHub.
+
+- 100 Days of Python  
+  Building Python projects consistently to improve development and problem-solving skills.
+
+---
+
 
 <h2 align="left">💭 <i>Daily Inspiration</i></h2>
 
