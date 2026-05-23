@@ -67,6 +67,15 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
+## 📌 Current Projects
+
+### 🔹 [LeetCode SQL Solutions Repository](https://github.com/sathvikamareddy/leetcode-sql-solutions)
+Actively solving SQL problems on LeetCode and maintaining a well-structured GitHub repository with optimized queries, detailed explanations, and organized solutions to strengthen database and query optimization skills.
+
+### 🔹 [100 Days of Python](https://github.com/sathvikamareddy/100-days-of-python)
+Consistently building Python projects and practicing problem-solving to enhance programming fundamentals, logical thinking, and real-world development skills through daily coding challenges.
+
+---
 
 <h2 align="left"> 📊 GitHub Analytics </h2>
 
@@ -74,7 +83,7 @@ I enjoy exploring modern technologies, creating responsive web applications, and
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=github_dark" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathvikamareddy&theme=github_dark" />
-</p>
+</p> 
 
 
 ---
@@ -96,15 +105,7 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 </div> 
 
----
 
-## 📌Current Projects
-
-- LeetCode SQL Solutions Repository  
-  Solving SQL problems daily and maintaining optimized solutions with proper documentation on GitHub.
-
-- 100 Days of Python  
-  Building Python projects consistently to improve development and problem-solving skills.
 
 ---
 
@@ -118,14 +119,6 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 <div align="center" style="margin-top:-5px;">
   ⭐ 𝙄𝙛 𝙮𝙤𝙪 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙬𝙤𝙧𝙠 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜, 𝙘𝙤𝙣𝙨𝙞𝙙𝙚𝙧 𝙜𝙞𝙫𝙞𝙣𝙜 𝙢𝙮 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙖 𝙨𝙩𝙖𝙧!
 </div>
-
----
-
-## *🐍 Watch My Contributions Get Eaten!*
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
-</p>
 
 ---
 
@@ -143,6 +136,15 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
 </p>
+
+---
+
+## *🐍 Watch My Contributions Get Eaten!*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+</p>
+
 
 ---
 
