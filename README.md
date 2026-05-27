@@ -13,6 +13,16 @@
     />
   </a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+
+  <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+
+  <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
+</p>
 
 ---
 
