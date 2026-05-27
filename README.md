@@ -89,17 +89,9 @@ Consistently building Python projects and practicing problem-solving to enhance 
 
 ## 📈 *Recent GitHub Activity*
 
-<div align="center">
-  
-[![Sathvika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div> 
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&theme=tokyo-night&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true"/> </p>
 
 ---
 
