@@ -82,8 +82,12 @@ Consistently building Python projects and practicing problem-solving to enhance 
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathvikamareddy)
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikamareddy&theme=default&background=ffffff&ring=d4a017&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=000000&dates=555555&sideNums=000000&currStreakNum=000000&border=dddddd"/>
+
 </div>
+
+
+
 
 ---
 
