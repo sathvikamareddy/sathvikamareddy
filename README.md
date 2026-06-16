@@ -140,25 +140,15 @@ Consistently building Python projects and practicing problem-solving to enhance 
 
 ---
 
+
+
+----
+
 ## *🐍 Watch My Contributions Get Eaten!*
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
 </p>
 
-
----
-
-<div align="center">
-
-## *Profile Stats*
-
-<br>
-
-<img src="https://img.shields.io/github/last-commit/sathvikamareddy/sathvikamareddy?label=Profile%20Updated&style=for-the-badge&color=0A66C2" />
-
-</div>
-
----
 
 
