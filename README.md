@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/assets/gitbanner.gif" alt="Coding Night Banner" width="100%" />
+  <img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/github_banner.png%20(1).gif?raw=true" alt="Coding Night Banner" width="100%" />
 </p>
 
 ---
