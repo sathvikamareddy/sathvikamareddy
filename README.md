@@ -26,6 +26,10 @@ src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,
 
 
 ---
+<h2 align="left">
+  <img src="https:" width="30">
+  Profile Statistics
+</h2>
 ## 👩‍💻 *About Me*
 
 > Passionate about building intelligent, data-driven, and user-centric digital experiences.
