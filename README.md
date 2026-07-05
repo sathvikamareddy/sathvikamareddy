@@ -1,6 +1,8 @@
 <!--NAME SECTION-->
 <h1 align="center">
 Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">  AI/ML Enthusiast | SQL | Machine Learning | Building Real-World Projects</h3>
+
 
 <!--PROFILE VIEWS,FOLLOWERS,LIKES-->
 <p align="center">
@@ -19,8 +21,13 @@ src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,
 ---
 <!--BANNER-->
 
+
+
 <p align="center">
-  <img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/github_banner.png%20(1).gif?raw=true" alt="Coding Night Banner" width="100%" />
+<img 
+src="github_banner.png (1).gif" 
+width="90%"
+style="border-radius:15px;">
 </p>
 
 ---
@@ -76,7 +83,33 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-----
+---
+<h2 align="left">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35">
+ Featured Projects
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/sathvikamareddy/REPO_NAME">
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
+</a>
+
+<a href="https://github.com/sathvikamareddy/REPO_NAME">
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
+</a>
+
+<br><br>
+
+<a href="https://github.com/sathvikamareddy/REPO_NAME">
+<img width="48%"
+src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
+</a>
+
+</div>
+---
 <!--GITHUB ANALYTICS-->
 
 <h2 align="left">
