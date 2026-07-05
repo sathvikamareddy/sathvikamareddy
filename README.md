@@ -1,7 +1,9 @@
 <!--NAME SECTION-->
 <h1 align="center">
 Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">  AI/ML Enthusiast | SQL | Machine Learning | Building Real-World Projects</h3>
+<h3 align="center" style="color:0:141E30;">
+  AI/ML Enthusiast | SQL | Machine Learning | Building Real-World Projects
+</h3>
 
 
 
