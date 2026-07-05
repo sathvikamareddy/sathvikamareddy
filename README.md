@@ -80,7 +80,7 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 <!--GITHUB ANALYTICS-->
 
 <h2 align="left">
-  <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/statistics.gif" width="30">
+  <img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/Assets/statistics.gif?raw=true" width="30">
    GitHub Analytics
 </h2>
 
