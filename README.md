@@ -31,16 +31,21 @@ src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,
   About Me
 </h2>
 
+> Bridging the gap between `data`, `intelligence`, and real-world solutions.
 
-> Passionate about building intelligent, data-driven, and user-centric digital experiences.
+Hi, I'm **Mareddy Sathvika** — a Computer Science undergraduate specializing in `Artificial Intelligence & Machine Learning`.
 
-I’m an AIML enthusiast with a strong interest in SQL, data analytics, and front-end development.  
-I enjoy exploring modern technologies, creating responsive web applications, and continuously learning through real-world projects and problem solving.
+I enjoy building technology that goes beyond code — transforming `data into insights`, designing `intelligent systems`, and creating digital experiences that solve practical problems.
 
-🔹 Exploring Artificial Intelligence & Machine Learning  
-🔹 Passionate About SQL & Data Analytics  
-🔹 Building Modern Front-End Experiences  
-🔹 Continuous Learner & Tech Enthusiast
+Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Data Analytics`, `SQL`, and `Full-Stack Development` while exploring how AI can be applied to create smarter and more impactful solutions.
+
+◈ Building `AI-driven` and data-focused applications  
+◈ Exploring `machine learning models` and intelligent systems  
+◈ Turning complex data into `meaningful insights`  
+◈ Developing scalable, `user-centered` digital solutions  
+◈ Growing through consistent learning, `projects`, and innovation  
+
+
 
 ---
 
@@ -75,6 +80,25 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 
 ---
+<h2 align="left">🚀 Spotlight Projects</h2>
+
+<div align="center">
+
+<a href="https://github.com/sathvikamareddy">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=leetcode-sql-solutions&theme=github_dark&hide_border=true"
+  />
+</a>
+
+<a href="https://github.com/sathvikamareddy">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=100-Days-Of-Python&theme=github_dark&hide_border=true"
+  />
+</a>
+
+</div>
+
+----
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/statistics.gif" width="30">
    GitHub Analytics
