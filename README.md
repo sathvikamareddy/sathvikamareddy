@@ -4,6 +4,12 @@ Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="
 <h3 align="center">  AI/ML Enthusiast | SQL | Machine Learning | Building Real-World Projects</h3>
 
 
+
+
+<!--ANIMATION OF ML-->
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
+
 <!--PROFILE VIEWS,FOLLOWERS,LIKES-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=94A3B8&style=for-the-badge" alt="Profile Views"/>
@@ -12,12 +18,6 @@ Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="
 
   <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Stars"/>
 </p>
-
-<!--ANIMATION OF ML-->
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
-
-
 ---
 <!--BANNER-->
 
