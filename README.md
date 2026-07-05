@@ -18,6 +18,7 @@ src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,
 
   <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Stars"/>
 </p>
+
 ---
 <!--BANNER-->
 
