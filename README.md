@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">
 Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=94A3B8&style=for-the-badge" alt="Profile Views"/>
 
@@ -12,6 +11,10 @@ src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,
 
   <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Stars"/>
 </p>
+
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
+
 
 ---
 
@@ -70,6 +73,12 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 ---
 
 <h2 align="left"> 📊 GitHub Analytics </h2>
+
+<h2 align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5am1iY3ByNm42bThlYzM2ZW02N2VvYjJoc2VvbHV4ejc5N3Z4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="32">
+ Profile Statistics
+</h2>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=github_dark" />
