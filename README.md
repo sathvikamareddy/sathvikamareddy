@@ -57,7 +57,11 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 ---
 
 <!--TECH STACK-->
-## 🛠️ *Tech Stack*
+<h2 align="left">
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35">
+ Tech Stack
+</h2>
+
 
 ### ꜰʀᴏɴᴛᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
