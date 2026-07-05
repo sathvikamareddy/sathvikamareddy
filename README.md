@@ -1,21 +1,21 @@
 <h1 align="center">Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">  AI/ML Enthusiast | SQL | Machine Learning | Building Real-World Projects</h3>
+<h3 align="center"> Machine Learning | Data Science | SQL | Turning Data into Intelligent Solutions </h3>
+
+
+
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=AI+%26+Tech+Enthusiast;Exploring+Data;Solving+Today,+Shaping+Tomorrow" 
-      alt="Typing SVG" 
-    />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=System.out.println(%22Building+the+Future%22);SELECT+*+FROM+data_driven_insights;ML_Model.fit(features%2C+labels)" alt="Typing SVG" />
 </p>
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=94A3B8&style=for-the-badge" alt="Profile Views"/>
 
-  <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=orange" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Followers"/>
 
-  <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Stars"/>
 </p>
 
 ---
@@ -96,7 +96,6 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 
 ---
-
 ## 📈 *Recent GitHub Activity*
 
 
@@ -145,3 +144,19 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
