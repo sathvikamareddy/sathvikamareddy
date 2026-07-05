@@ -71,14 +71,10 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 
 
 ---
-
-<h2 align="left"> 📊 GitHub Analytics </h2>
-
 <h2 align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk5am1iY3ByNm42bThlYzM2ZW02N2VvYjJoc2VvbHV4ejc5N3Z4NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif" width="32">
- Profile Statistics
+  <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/statistics.gif" width="30">
+   GitHub Analytics
 </h2>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=github_dark" />
