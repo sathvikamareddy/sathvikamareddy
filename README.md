@@ -89,7 +89,7 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 
 ---
 <h2 align="left">
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35">
+<img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/Assets/laptop_code.gif?raw=true" width="35">
  Featured Projects
 </h2>
 
@@ -129,54 +129,83 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&re
 
 
 ---
+<h2 align="left">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28">
+ GitHub Streak 
+</h2>
 
-## 🔥 *Streak Stats*
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sathvikamareddy&theme=default&background=ffffff&ring=f59e0b&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=000000&dates=555555&sideNums=000000&currStreakNum=000000&border=dddddd"/>
+<img width="60%" 
+src="https://streak-stats.demolab.com?user=sathvikamareddy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-</div> 
-
-
-
-
-
----
-## 📈 *Recent GitHub Activity*
-
-
-
-<p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&theme=tokyo-night&bg_color=0D1117&color=ff6b9d&line=ff6b9d&point=fafafa&area=true&hide_border=true"/> </p>
-
----
-
-
-<h2 align="left">💭 <i>Daily Inspiration</i></h2>
-
-<p align="center" style="margin-top:-5px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
-
-<div align="center" style="margin-top:-5px;">
-  ⭐ 𝙄𝙛 𝙮𝙤𝙪 𝙛𝙞𝙣𝙙 𝙢𝙮 𝙬𝙤𝙧𝙠 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜, 𝙘𝙤𝙣𝙨𝙞𝙙𝙚𝙧 𝙜𝙞𝙫𝙞𝙣𝙜 𝙢𝙮 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙖 𝙨𝙩𝙖𝙧!
 </div>
 
+
+
+
+
+
 ---
 
-## *🐍 Watch My Contributions Get Eaten!*
+<h2 align="left">
+<img src="https://cdn-icons-gif.flaticon.com/7211/7211797.gif" width="28">
+ Recent GitHub Activity
+</h2>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+<img width="100%" 
+src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&bg_color=0D1117&color=C9D1D9&line=1F3A56&point=8FA3BC&area=true&area_color=14283D&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 *Connect & Collaborate*
+
+<h2 align="left">
+<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="35">
+<i> Daily Inspiration</i>
+</h2>
+<BR>
+
+
+<p align="center" style="margin-top:-5px;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"> </p>
+
 
 <div align="center">
-  
-### 📫 *Connect with Me*
+
+<table>
+<tr>
+<td align="center">
+
+⭐ <b>Inspired by my work?</b>  
+<br>
+Show some support by starring my repositories 🚀
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
+---
+
+<h2 align="left">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+<i> Connect & Collaborate</i>
+</h2>
+
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="180">
+
+<br><br>
+
+<b>💬 Let's connect, collaborate, and build something amazing together!</b>
+
+<br>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mareddy-sathvika-483b76359/" target="_blank">
@@ -186,10 +215,17 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&re
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
 </a>
 </p>
+</div>
 
 ---
 
 
+
+## *🐍 Watch My Contributions Get Eaten!*
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Snake animation GIF" width="100%" />
+</p>
 
 
 
