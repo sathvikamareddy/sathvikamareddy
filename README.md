@@ -1,9 +1,8 @@
-
-  
-</p>
+<!--NAME SECTION-->
 <h1 align="center">
 Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<!--PROFILE VIEWS,FOLLOWERS,LIKES-->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sathvikamareddy&color=94A3B8&style=for-the-badge" alt="Profile Views"/>
 
@@ -12,20 +11,21 @@ Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="
   <img src="https://img.shields.io/github/stars/sathvikamareddy?style=for-the-badge&color=94A3B8" alt="GitHub Stars"/>
 </p>
 
+<!--ANIMATION OF ML-->
 <img width="100%"
 src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
 
 
 ---
+<!--BANNER-->
 
 <p align="center">
   <img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/github_banner.png%20(1).gif?raw=true" alt="Coding Night Banner" width="100%" />
 </p>
 
-
-
-
 ---
+
+<!--ABOUT ME-->
 <h2 align="left">
   <img src="https://github.com/sathvikamareddy/sathvikamareddy/blob/main/Assets/Developer.gif?raw=true" width="30">
   About Me
@@ -49,7 +49,8 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 
 ---
 
-## 🛠️ *Tech Arsenal*
+<!--TECH STACK-->
+## 🛠️ *Tech Stack*
 
 ### ꜰʀᴏɴᴛᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
@@ -75,30 +76,9 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
-
-
-
-
----
-<h2 align="left">🚀 Spotlight Projects</h2>
-
-<div align="center">
-
-<a href="https://github.com/sathvikamareddy">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=leetcode-sql-solutions&theme=github_dark&hide_border=true"
-  />
-</a>
-
-<a href="https://github.com/sathvikamareddy">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=100-Days-Of-Python&theme=github_dark&hide_border=true"
-  />
-</a>
-
-</div>
-
 ----
+<!--GITHUB ANALYTICS-->
+
 <h2 align="left">
   <img src="https://raw.githubusercontent.com/sathvikamareddy/sathvikamareddy/main/statistics.gif" width="30">
    GitHub Analytics
