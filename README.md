@@ -66,14 +66,9 @@ I enjoy exploring modern technologies, creating responsive web applications, and
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
----
-## 📌 Current Projects
 
-### 🔹 [LeetCode SQL Solutions Repository](https://github.com/sathvikamareddy/leetcode-sql-solutions)
-Actively solving SQL problems on LeetCode and maintaining a well-structured GitHub repository with optimized queries, detailed explanations, and organized solutions to strengthen database and query optimization skills.
 
-### 🔹 [100 Days of Python](https://github.com/sathvikamareddy/100-days-of-python)
-Consistently building Python projects and practicing problem-solving to enhance programming fundamentals, logical thinking, and real-world development skills through daily coding challenges.
+
 
 ---
 
