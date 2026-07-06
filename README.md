@@ -124,11 +124,10 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&re
    GitHub Analytics
 </h2>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=github_dark" />
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathvikamareddy&theme=github_dark" />
-</p> 
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhoomi155&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhoomi155&theme=nord_dark" />
+</div>
 
 
 ---
