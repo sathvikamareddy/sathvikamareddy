@@ -116,7 +116,9 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&re
 </a>
 
 </div>
+
 ---
+
 <!--GITHUB ANALYTICS-->
 
 <h2 align="left">
