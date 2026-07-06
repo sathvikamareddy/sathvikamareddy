@@ -96,26 +96,26 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
  Featured Projects
 </h2>
 
-<div align="center">
 
-<a href="https://github.com/sathvikamareddy/REPO_NAME">
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
-</a>
 
-<a href="https://github.com/sathvikamareddy/REPO_NAME">
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
-</a>
 
-<br><br>
 
-<a href="https://github.com/sathvikamareddy/REPO_NAME">
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&repo=REPO_NAME&theme=transparent&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&border_color=243B55">
-</a>
 
-</div>
+<p align="center">
+
+  <a href="https://github.com/sathvikamareddy/leetcode-sql-solutions">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sathvikamareddy&repo=leetcode-sql-solutions&theme=nord" />
+  </a>
+
+  <a href="https://github.com/sathvikamareddy/100-Days-of-Python">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=sathvikamareddy&repo=100-Days-of-Python&theme=nord" />
+  </a>
+
+</p>
+
+
+
+
 ---
 <!--GITHUB ANALYTICS-->
 
@@ -136,16 +136,15 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sathvikamareddy&re
  GitHub Streak 
 </h2>
 
-
 <div align="center">
+  
 
-<img width="60%" 
-src="https://streak-stats.demolab.com?user=sathvikamareddy&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
+<p align="center">
+  <img 
+    width="700"
+    src="https://www.readmecodegen.com/api/github-stats/svg?username=sathvikamareddy&bgColor=303846&titleColor=F5F7FA&textColor=F5F7FA&iconColor=9BD4D1&borderColor=E5E7EB&cardType=streak"/>
+</p>
 </div>
-
-
-
 
 
 
