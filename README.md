@@ -125,47 +125,49 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 </h2>
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhoomi155&theme=nord_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhoomi155&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sathvikamareddy&theme=nord_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sathvikamareddy&theme=nord_dark" />
 </div>
 
 
 ---
+
+
+ <!--GIT streak--> 
 <h2 align="left">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28">
  GitHub Streak 
 </h2>
 
 <div align="center">
-  
 
 <p align="center">
   <img 
     width="700"
-    src="https://www.readmecodegen.com/api/github-stats/svg?username=sathvikamareddy&bgColor=303846&titleColor=F5F7FA&textColor=F5F7FA&iconColor=9BD4D1&borderColor=E5E7EB&cardType=streak"/>
+    src="https://streak-stats.demolab.com?user=sathvikamareddy&background=303846&border=E5E7EB&stroke=E5E7EB&ring=9BD4D1&fire=9BD4D1&currStreakNum=F5F7FA&sideNums=F5F7FA&currStreakLabel=9BD4D1&sideLabels=9BD4D1&dates=F5F7FA&hide_border=false"/>
 </p>
-</div>
-
-  
 
 </div>
+
 
 
 
 ---
+<!--Git Activity-->
 
 <h2 align="left">
 <img src="https://cdn-icons-gif.flaticon.com/7211/7211797.gif" width="28">
  Recent GitHub Activity
 </h2>
 
-<p align="center">
-<img width="100%" 
-src="https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&bg_color=0D1117&color=C9D1D9&line=1F3A56&point=8FA3BC&area=true&area_color=14283D&hide_border=true"/>
-</p>
+
+
+
+[![Sathvika's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sathvikamareddy&bg_color=0d1117&color=88c0d0&line=88c0d0&point=88c0d0&area=true&area_color=0d1117&hide_border=true)](https://github.com/sathvikamareddy)
+
 
 ---
-
+<!--Daily Aspiration-->
 
 <h2 align="left">
 <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="35">
@@ -196,6 +198,7 @@ Show some support by starring my repositories 🚀
 
 ---
 
+<!--Connect & Collaborate-->
 <h2 align="left">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
 <i> Connect & Collaborate</i>
