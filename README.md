@@ -6,11 +6,12 @@ Hi, I'm 𝗠𝗮𝗿𝗲𝗱𝗱𝘆 𝗦𝗮𝘁𝗵𝘃𝗶𝗸𝗮 <img src="
 </h3>
 
 
-
-
-<!--ANIMATION OF ML-->
+<!-- ANIMATION OF ML -->
 <img width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:141E30,100:243B55&text=Beyond%20Algorithms&fontSize=35&fontColor=FFFFFF&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=FFFFFF"/>
+src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:1E293B,50:334155,100:88C0D0&text=Beyond%20Algorithms&fontSize=35&fontColor=E0F2FE&animation=twinkling&desc=Exploring%20Machines%20That%20Learn&descSize=14&descColor=BAE6FD"/>
+
+
+
 
 <!--PROFILE VIEWS,FOLLOWERS,LIKES-->
 <p align="center">
