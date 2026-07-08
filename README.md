@@ -73,7 +73,9 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
 ### ᴅᴀᴛᴀʙᴀꜱᴇ
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 
 ### ᴀɪ & ᴍʟ  
