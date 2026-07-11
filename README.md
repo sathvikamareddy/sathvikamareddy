@@ -42,7 +42,7 @@ style="border-radius:15px;">
   About Me
 </h2>
 
-> Bridging the gap between `data`, `intelligence`, and real-world solutions.
+> Bridging the gap between data, intelligence, and real-world solutions.
 
 Hi, I'm **Mareddy Sathvika** — a Computer Science undergraduate specializing in `Artificial Intelligence & Machine Learning`.
 
