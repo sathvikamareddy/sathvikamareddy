@@ -182,21 +182,7 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 <p align="center" style="margin-top:-5px;"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"> </p>
 
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-⭐ <b>Inspired by my work?</b>  
-<br>
-Show some support by starring my repositories 🚀
-
-</td>
-</tr>
-</table>
-
-</div>
 
 
 ---
