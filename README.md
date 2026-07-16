@@ -48,13 +48,16 @@ Hi, I'm **Mareddy Sathvika** — a Computer Science undergraduate specializing i
 
 I enjoy building technology that goes beyond code — transforming `data into insights`, designing `intelligent systems`, and creating digital experiences that solve practical problems.
 
-Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Data Analytics`, `SQL`, and `Full-Stack Development` while exploring how AI can be applied to create smarter and more impactful solutions.
+Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Data Analytics`, `SQL`, while exploring how AI can be applied to create smarter and more impactful solutions.
 
 ◈ Building `AI-driven` and data-focused applications  
 ◈ Exploring `machine learning models` and intelligent systems  
 ◈ Turning complex data into `meaningful insights`  
 ◈ Developing scalable, `user-centered` digital solutions  
 ◈ Growing through consistent learning, `projects`, and innovation  
+
+
+
 
 
 
