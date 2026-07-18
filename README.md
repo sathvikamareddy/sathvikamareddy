@@ -56,11 +56,17 @@ Currently, I'm focused on strengthening my expertise in `Machine Learning`, `Dat
 ◈ Developing scalable, `user-centered` digital solutions  
 ◈ Growing through consistent learning, `projects`, and innovation  
 
+<br>
+<br>
+
+<p align="center">
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20My%20Resume-94A3B8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+</p>
 
 
-
-
-
+ 
 ---
 
 <!--TECH STACK-->
